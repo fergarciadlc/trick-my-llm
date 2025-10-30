@@ -1,0 +1,22 @@
+base_url: "https://api.groq.com/openai/v1"
+api_key_env: "GROQ_API_KEY"
+
+models:
+  - name: "llama-3.1-8b-instant"   # small model for a quick test
+    provider: "groq"
+    model_params:
+      temperature: 0.0
+      max_tokens: 64
+
+defaults:
+  temperature: 0.0
+  max_tokens: 64
+  top_p: 1.0
+  timeout_s: 30
+
+replications: 1   # single run only
+
+scenarios:
+  - id: "smoke_test_contradictory_table"
+    system_prompt: "prompts/system__use_provided_data_only.md"
+    user_prompt_template: "prompts/scenarios/user__contradictory_table.md.j2"
