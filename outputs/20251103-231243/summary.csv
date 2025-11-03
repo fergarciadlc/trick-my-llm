@@ -1,0 +1,16 @@
+error,expected_answer,is_correct,latency_s,model,rep,response_preview,scenario_id
+"Client error '413 Payload Too Large' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/413",597.11,False,15.852,llama-3.1-8b-instant,0,,gdp_large
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",597.11,False,21.811,groq/compound-mini,0,,gdp_large
+,597.11,True,0.593,openai/gpt-oss-20b,0,597.11,gdp_large
+"Client error '413 Payload Too Large' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/413",597.11,False,15.797,llama-3.1-8b-instant,1,,gdp_large
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",597.11,False,15.531,groq/compound-mini,1,,gdp_large
+,597.11,True,8.191,openai/gpt-oss-20b,1,597.11,gdp_large
+"Client error '413 Payload Too Large' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/413",597.11,False,15.687,llama-3.1-8b-instant,2,,gdp_large
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",597.11,False,15.668,groq/compound-mini,2,,gdp_large
+,597.11,True,7.837,openai/gpt-oss-20b,2,597.11,gdp_large

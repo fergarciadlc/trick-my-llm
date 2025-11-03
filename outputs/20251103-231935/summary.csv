@@ -1,0 +1,6 @@
+error,expected_answer,is_correct,latency_s,model,rep,response_preview,scenario_id
+,32958.32,True,0.705,openai/gpt-oss-20b,0,32958.32,gdp_large
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",32958.32,False,15.557,openai/gpt-oss-20b,1,,gdp_large
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",32958.32,False,15.493,openai/gpt-oss-20b,2,,gdp_large

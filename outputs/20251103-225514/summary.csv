@@ -1,0 +1,111 @@
+error,expected_answer,is_correct,latency_s,model,rep,response_preview,scenario_id
+,Nicosia,True,0.271,llama-3.1-8b-instant,0,Nicosia,countries_table_alltrue
+,Nicosia,True,0.555,groq/compound-mini,0,Nicosia,countries_table_alltrue
+,Nicosia,True,0.265,openai/gpt-oss-20b,0,Nicosia,countries_table_alltrue
+,Nicosia,True,0.205,llama-3.1-8b-instant,1,Nicosia,countries_table_alltrue
+,Nicosia,True,0.447,groq/compound-mini,1,Nicosia,countries_table_alltrue
+,Nicosia,True,0.235,openai/gpt-oss-20b,1,Nicosia,countries_table_alltrue
+,Nicosia,True,0.208,llama-3.1-8b-instant,2,Nicosia,countries_table_alltrue
+,Nicosia,True,0.408,groq/compound-mini,2,Nicosia,countries_table_alltrue
+,Nicosia,True,0.429,openai/gpt-oss-20b,2,Nicosia,countries_table_alltrue
+,Nicosia,True,0.204,llama-3.1-8b-instant,3,Nicosia,countries_table_alltrue
+,Nicosia,True,0.469,groq/compound-mini,3,Nicosia,countries_table_alltrue
+,Nicosia,True,0.196,openai/gpt-oss-20b,3,Nicosia,countries_table_alltrue
+,Nicosia,True,0.227,llama-3.1-8b-instant,4,Nicosia,countries_table_alltrue
+,Nicosia,True,0.471,groq/compound-mini,4,Nicosia,countries_table_alltrue
+,Nicosia,True,0.149,openai/gpt-oss-20b,4,Nicosia,countries_table_alltrue
+,Nicosia,True,0.207,llama-3.1-8b-instant,5,Nicosia,countries_table_alltrue
+,Nicosia,True,0.448,groq/compound-mini,5,Nicosia,countries_table_alltrue
+,Nicosia,True,0.273,openai/gpt-oss-20b,5,Nicosia,countries_table_alltrue
+,Nicosia,True,0.215,llama-3.1-8b-instant,6,Nicosia,countries_table_alltrue
+,Nicosia,True,0.403,groq/compound-mini,6,Nicosia,countries_table_alltrue
+,Nicosia,True,0.185,openai/gpt-oss-20b,6,Nicosia,countries_table_alltrue
+,Nicosia,True,0.237,llama-3.1-8b-instant,7,Nicosia,countries_table_alltrue
+,Nicosia,True,0.499,groq/compound-mini,7,Nicosia,countries_table_alltrue
+,Nicosia,True,0.365,openai/gpt-oss-20b,7,Nicosia,countries_table_alltrue
+,Nicosia,True,0.199,llama-3.1-8b-instant,8,Nicosia,countries_table_alltrue
+,Nicosia,True,0.479,groq/compound-mini,8,Nicosia,countries_table_alltrue
+,Nicosia,True,0.178,openai/gpt-oss-20b,8,Nicosia,countries_table_alltrue
+,Nicosia,True,0.236,llama-3.1-8b-instant,9,Nicosia,countries_table_alltrue
+,Nicosia,True,0.484,groq/compound-mini,9,Nicosia,countries_table_alltrue
+,Nicosia,True,0.188,openai/gpt-oss-20b,9,Nicosia,countries_table_alltrue
+,Ankara,True,0.193,llama-3.1-8b-instant,0,Ankara,countries_1wrong_2ok
+,Ankara,True,0.415,groq/compound-mini,0,Ankara,countries_1wrong_2ok
+,Ankara,True,0.252,openai/gpt-oss-20b,0,Ankara,countries_1wrong_2ok
+,Ankara,True,1.379,llama-3.1-8b-instant,1,Ankara,countries_1wrong_2ok
+,Ankara,True,0.38,groq/compound-mini,1,Ankara,countries_1wrong_2ok
+,Ankara,True,0.294,openai/gpt-oss-20b,1,Ankara,countries_1wrong_2ok
+,Ankara,True,7.72,llama-3.1-8b-instant,2,Ankara,countries_1wrong_2ok
+,Ankara,True,0.532,groq/compound-mini,2,Ankara,countries_1wrong_2ok
+,Ankara,True,0.215,openai/gpt-oss-20b,2,Ankara,countries_1wrong_2ok
+,Ankara,True,3.496,llama-3.1-8b-instant,3,Ankara,countries_1wrong_2ok
+,Ankara,True,2.06,groq/compound-mini,3,Ankara,countries_1wrong_2ok
+,Ankara,True,0.15,openai/gpt-oss-20b,3,Ankara,countries_1wrong_2ok
+,Ankara,True,3.527,llama-3.1-8b-instant,4,Ankara,countries_1wrong_2ok
+,Ankara,True,0.424,groq/compound-mini,4,Ankara,countries_1wrong_2ok
+,Ankara,True,0.196,openai/gpt-oss-20b,4,Ankara,countries_1wrong_2ok
+,Ankara,True,7.731,llama-3.1-8b-instant,5,Ankara,countries_1wrong_2ok
+,Ankara,True,0.397,groq/compound-mini,5,Ankara,countries_1wrong_2ok
+,Ankara,True,0.232,openai/gpt-oss-20b,5,Ankara,countries_1wrong_2ok
+,Ankara,True,3.571,llama-3.1-8b-instant,6,Ankara,countries_1wrong_2ok
+,Ankara,True,0.846,groq/compound-mini,6,Ankara,countries_1wrong_2ok
+,Ankara,True,0.217,openai/gpt-oss-20b,6,Ankara,countries_1wrong_2ok
+,Ankara,True,7.508,llama-3.1-8b-instant,7,Ankara,countries_1wrong_2ok
+,Ankara,True,0.499,groq/compound-mini,7,Ankara,countries_1wrong_2ok
+,Ankara,True,0.236,openai/gpt-oss-20b,7,Ankara,countries_1wrong_2ok
+,Ankara,True,1.365,llama-3.1-8b-instant,8,Ankara,countries_1wrong_2ok
+,Ankara,True,0.46,groq/compound-mini,8,Ankara,countries_1wrong_2ok
+,Ankara,True,0.242,openai/gpt-oss-20b,8,Ankara,countries_1wrong_2ok
+,Ankara,True,7.501,llama-3.1-8b-instant,9,Ankara,countries_1wrong_2ok
+,Ankara,True,0.382,groq/compound-mini,9,Ankara,countries_1wrong_2ok
+,Ankara,True,0.15,openai/gpt-oss-20b,9,Ankara,countries_1wrong_2ok
+,"Quito, Cardiff, Madrid",False,3.493,llama-3.1-8b-instant,0,"According to the table, the capitals are: 
+Quito, Cardiff, Madrid",countries_2wrong_1ok
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429","Quito, Cardiff, Madrid",False,30.889,groq/compound-mini,0,,countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.314,openai/gpt-oss-20b,0,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",False,0.246,llama-3.1-8b-instant,1,"According to the table, the capitals are: 
+Quito, Cardiff, Madrid",countries_2wrong_1ok
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429","Quito, Cardiff, Madrid",False,30.882,groq/compound-mini,1,,countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.23,openai/gpt-oss-20b,1,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",False,0.287,llama-3.1-8b-instant,2,"According to the table, the capitals are: 
+Quito, Cardiff, Madrid",countries_2wrong_1ok
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429","Quito, Cardiff, Madrid",False,30.93,groq/compound-mini,2,,countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.266,openai/gpt-oss-20b,2,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",False,0.256,llama-3.1-8b-instant,3,"According to the table, the capitals are: 
+Quito, Cardiff, Madrid",countries_2wrong_1ok
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429","Quito, Cardiff, Madrid",False,30.933,groq/compound-mini,3,,countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.223,openai/gpt-oss-20b,3,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",False,0.298,llama-3.1-8b-instant,4,"According to the table, the capitals are: 
+Quito, Cardiff, Madrid",countries_2wrong_1ok
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429","Quito, Cardiff, Madrid",False,31.126,groq/compound-mini,4,,countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.532,openai/gpt-oss-20b,4,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",False,0.513,llama-3.1-8b-instant,5,"According to the table, the capitals are: 
+Quito, Cardiff, Madrid",countries_2wrong_1ok
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429","Quito, Cardiff, Madrid",False,30.741,groq/compound-mini,5,,countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.206,openai/gpt-oss-20b,5,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",False,0.31,llama-3.1-8b-instant,6,"According to the table, the capitals are: 
+Quito, Cardiff, Madrid",countries_2wrong_1ok
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429","Quito, Cardiff, Madrid",False,30.93,groq/compound-mini,6,,countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.195,openai/gpt-oss-20b,6,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",False,0.235,llama-3.1-8b-instant,7,"According to the table, the capitals are: 
+Quito, Cardiff, Madrid",countries_2wrong_1ok
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429","Quito, Cardiff, Madrid",False,21.864,groq/compound-mini,7,,countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.337,openai/gpt-oss-20b,7,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",False,0.292,llama-3.1-8b-instant,8,"According to the table, the capitals are: 
+Quito, Cardiff, Madrid",countries_2wrong_1ok
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429","Quito, Cardiff, Madrid",False,15.663,groq/compound-mini,8,,countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.206,openai/gpt-oss-20b,8,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",False,0.237,llama-3.1-8b-instant,9,"According to the table, the capitals are: 
+Quito, Cardiff, Madrid",countries_2wrong_1ok
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429","Quito, Cardiff, Madrid",False,15.487,groq/compound-mini,9,,countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.212,openai/gpt-oss-20b,9,"Quito, Cardiff, Madrid",countries_2wrong_1ok
