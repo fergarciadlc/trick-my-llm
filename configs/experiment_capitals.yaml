@@ -25,15 +25,15 @@ defaults:
   timeout_s: 60
   # seed: 123  # uncomment if the target model supports it
 
-replications: 3
+replications: 10
 
 scenarios:
   - id: "countries_table_alltrue"
     system_prompt: "prompts/system__use_provided_data_only.md"
     user_prompt_template: "prompts/scenarios/user__contradictory_table.md.j2"
-  - id: "countries_2ok_1wrong"
+  - id: "countries_1wrong_2ok"
     system_prompt: "prompts/system__use_provided_data_only.md"
     user_prompt_template: "prompts/scenarios/user__contradictory_table2.md.j2"
-  - id: "countries_1ok_2wrong"
+  - id: "countries_2wrong_1ok"
     system_prompt: "prompts/system__use_provided_data_only.md"
     user_prompt_template: "prompts/scenarios/user__contradictory_table3.md.j2"
