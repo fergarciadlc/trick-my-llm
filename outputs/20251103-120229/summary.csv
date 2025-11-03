@@ -1,0 +1,91 @@
+error,expected_answer,is_correct,latency_s,model,rep,response_preview,scenario_id
+,Nicosia,True,0.312,llama-3.1-8b-instant,0,Nicosia,countries_table_alltrue
+,Nicosia,True,0.538,groq/compound-mini,0,Nicosia,countries_table_alltrue
+,Nicosia,True,0.232,openai/gpt-oss-20b,0,Nicosia,countries_table_alltrue
+,Nicosia,True,0.251,llama-3.1-8b-instant,1,Nicosia,countries_table_alltrue
+,Nicosia,True,0.485,groq/compound-mini,1,Nicosia,countries_table_alltrue
+,Nicosia,True,0.233,openai/gpt-oss-20b,1,Nicosia,countries_table_alltrue
+,Nicosia,True,0.239,llama-3.1-8b-instant,2,Nicosia,countries_table_alltrue
+,Nicosia,True,0.444,groq/compound-mini,2,Nicosia,countries_table_alltrue
+,Nicosia,True,0.192,openai/gpt-oss-20b,2,Nicosia,countries_table_alltrue
+,Nicosia,True,0.24,llama-3.1-8b-instant,3,Nicosia,countries_table_alltrue
+,Nicosia,True,0.627,groq/compound-mini,3,Nicosia,countries_table_alltrue
+,Nicosia,True,0.248,openai/gpt-oss-20b,3,Nicosia,countries_table_alltrue
+,Nicosia,True,0.251,llama-3.1-8b-instant,4,Nicosia,countries_table_alltrue
+,Nicosia,True,0.528,groq/compound-mini,4,Nicosia,countries_table_alltrue
+,Nicosia,True,0.27,openai/gpt-oss-20b,4,Nicosia,countries_table_alltrue
+,Nicosia,True,0.255,llama-3.1-8b-instant,5,Nicosia,countries_table_alltrue
+,Nicosia,True,0.775,groq/compound-mini,5,Nicosia,countries_table_alltrue
+,Nicosia,True,0.553,openai/gpt-oss-20b,5,Nicosia,countries_table_alltrue
+,Nicosia,True,0.259,llama-3.1-8b-instant,6,Nicosia,countries_table_alltrue
+,Nicosia,True,0.561,groq/compound-mini,6,Nicosia,countries_table_alltrue
+,Nicosia,True,0.195,openai/gpt-oss-20b,6,Nicosia,countries_table_alltrue
+,Nicosia,True,0.253,llama-3.1-8b-instant,7,Nicosia,countries_table_alltrue
+,Nicosia,True,0.579,groq/compound-mini,7,Nicosia,countries_table_alltrue
+,Nicosia,True,0.206,openai/gpt-oss-20b,7,Nicosia,countries_table_alltrue
+,Nicosia,True,0.227,llama-3.1-8b-instant,8,Nicosia,countries_table_alltrue
+,Nicosia,True,0.698,groq/compound-mini,8,Nicosia,countries_table_alltrue
+,Nicosia,True,0.88,openai/gpt-oss-20b,8,Nicosia,countries_table_alltrue
+,Nicosia,True,0.255,llama-3.1-8b-instant,9,Nicosia,countries_table_alltrue
+,Nicosia,True,0.433,groq/compound-mini,9,Nicosia,countries_table_alltrue
+,Nicosia,True,0.193,openai/gpt-oss-20b,9,Nicosia,countries_table_alltrue
+,Ankara,True,0.236,llama-3.1-8b-instant,0,Ankara,countries_1wrong_2ok
+,Ankara,True,0.567,groq/compound-mini,0,Ankara,countries_1wrong_2ok
+,Ankara,True,0.251,openai/gpt-oss-20b,0,Ankara,countries_1wrong_2ok
+,Ankara,True,0.245,llama-3.1-8b-instant,1,Ankara,countries_1wrong_2ok
+,Ankara,True,0.533,groq/compound-mini,1,Ankara,countries_1wrong_2ok
+,Ankara,True,0.237,openai/gpt-oss-20b,1,Ankara,countries_1wrong_2ok
+,Ankara,True,3.499,llama-3.1-8b-instant,2,Ankara,countries_1wrong_2ok
+,Ankara,True,0.59,groq/compound-mini,2,Ankara,countries_1wrong_2ok
+,Ankara,True,0.25,openai/gpt-oss-20b,2,Ankara,countries_1wrong_2ok
+,Ankara,True,7.611,llama-3.1-8b-instant,3,Ankara,countries_1wrong_2ok
+,Ankara,True,0.587,groq/compound-mini,3,Ankara,countries_1wrong_2ok
+,Ankara,True,0.263,openai/gpt-oss-20b,3,Ankara,countries_1wrong_2ok
+,Ankara,True,3.504,llama-3.1-8b-instant,4,Ankara,countries_1wrong_2ok
+,Ankara,True,0.563,groq/compound-mini,4,Ankara,countries_1wrong_2ok
+,Ankara,True,0.215,openai/gpt-oss-20b,4,Ankara,countries_1wrong_2ok
+,Ankara,True,7.674,llama-3.1-8b-instant,5,Ankara,countries_1wrong_2ok
+,Ankara,True,0.591,groq/compound-mini,5,Ankara,countries_1wrong_2ok
+,Ankara,True,0.256,openai/gpt-oss-20b,5,Ankara,countries_1wrong_2ok
+,Ankara,True,3.592,llama-3.1-8b-instant,6,Ankara,countries_1wrong_2ok
+,Ankara,True,0.483,groq/compound-mini,6,Ankara,countries_1wrong_2ok
+,Ankara,True,0.236,openai/gpt-oss-20b,6,Ankara,countries_1wrong_2ok
+,Ankara,True,7.818,llama-3.1-8b-instant,7,Ankara,countries_1wrong_2ok
+,Ankara,True,0.469,groq/compound-mini,7,Ankara,countries_1wrong_2ok
+,Ankara,True,0.493,openai/gpt-oss-20b,7,Ankara,countries_1wrong_2ok
+,Ankara,True,3.619,llama-3.1-8b-instant,8,Ankara,countries_1wrong_2ok
+,Ankara,True,0.556,groq/compound-mini,8,Ankara,countries_1wrong_2ok
+,Ankara,True,0.264,openai/gpt-oss-20b,8,Ankara,countries_1wrong_2ok
+,Ankara,True,7.771,llama-3.1-8b-instant,9,Ankara,countries_1wrong_2ok
+,Ankara,True,0.578,groq/compound-mini,9,Ankara,countries_1wrong_2ok
+,Ankara,True,0.295,openai/gpt-oss-20b,9,Ankara,countries_1wrong_2ok
+,"Quito, Cardiff, Madrid",True,1.47,llama-3.1-8b-instant,0,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.91,groq/compound-mini,0,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.517,openai/gpt-oss-20b,0,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,7.764,llama-3.1-8b-instant,1,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,2.316,groq/compound-mini,1,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.429,openai/gpt-oss-20b,1,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.33,llama-3.1-8b-instant,2,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.66,groq/compound-mini,2,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",False,0.552,openai/gpt-oss-20b,2,,countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,7.834,llama-3.1-8b-instant,3,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.925,groq/compound-mini,3,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.412,openai/gpt-oss-20b,3,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,3.617,llama-3.1-8b-instant,4,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.913,groq/compound-mini,4,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.461,openai/gpt-oss-20b,4,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,3.706,llama-3.1-8b-instant,5,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.676,groq/compound-mini,5,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.371,openai/gpt-oss-20b,5,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,7.804,llama-3.1-8b-instant,6,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.69,groq/compound-mini,6,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.425,openai/gpt-oss-20b,6,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,3.606,llama-3.1-8b-instant,7,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.561,groq/compound-mini,7,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.27,openai/gpt-oss-20b,7,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,3.48,llama-3.1-8b-instant,8,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,1.75,groq/compound-mini,8,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.25,openai/gpt-oss-20b,8,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,7.603,llama-3.1-8b-instant,9,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.729,groq/compound-mini,9,"Quito, Cardiff, Madrid",countries_2wrong_1ok
+,"Quito, Cardiff, Madrid",True,0.381,openai/gpt-oss-20b,9,"Quito, Cardiff, Madrid",countries_2wrong_1ok
