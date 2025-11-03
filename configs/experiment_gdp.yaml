@@ -1,5 +1,3 @@
-# Config-driven experiment spec (Option 2 inline expected answer).
-
 base_url: "https://api.groq.com/openai/v1"
 api_key_env: "GROQ_API_KEY"
 
@@ -32,8 +30,20 @@ replications: 1
 scenarios:
   - id: "gdp_avg_true"
     system_prompt: "prompts/system__use_provided_data_only.md"
-    user_prompt_template: "prompts/scenarios/user__gdp_average.md.j2"
+    user_prompt_template: "prompts/scenarios/user__gdp_average_true.md.j2"
+  - id: "gdp_avg_false"
+    system_prompt: "prompts/system__use_provided_data_only.md"
+    user_prompt_template: "prompts/scenarios/user__gdp_average_false.md.j2"
   - id: "gdp_growth_true"
     system_prompt: "prompts/system__use_provided_data_only.md"
-    user_prompt_template: "prompts/scenarios/user__gdp_growth.md.j2"
+    user_prompt_template: "prompts/scenarios/user__gdp_growth_true.md.j2"
+  - id: "gdp_growth_false"
+    system_prompt: "prompts/system__use_provided_data_only.md"
+    user_prompt_template: "prompts/scenarios/user__gdp_growth_false.md.j2"
+  - id: "gdp_lookup_true"
+    system_prompt: "prompts/system__use_provided_data_only.md"
+    user_prompt_template: "prompts/scenarios/user__gdp_lookup_true.md.j2"
+  - id: "gdp_lookup_false"
+    system_prompt: "prompts/system__use_provided_data_only.md"
+    user_prompt_template: "prompts/scenarios/user__gdp_lookup_false.md.j2"
  
