@@ -46,6 +46,9 @@ def load_config(path: str) -> ExperimentConfig:
 def run_experiment(cfg: ExperimentConfig) -> List[Dict[str, Any]]:
     rows: List[Dict[str, Any]] = []
     client = LLMClient(base_url=cfg.base_url, api_key_env=cfg.api_key_env, timeout_s=cfg.defaults.get("timeout_s", 60))
+    
+    # Rate limiting: delay between requests (configurable, default 1 second)
+    request_delay = cfg.defaults.get("request_delay_s", 1.0)
 
     for scenario in tqdm(cfg.scenarios, desc="Scenarios", unit="scenario"):
         for rep in range(cfg.replications):
@@ -71,6 +74,7 @@ def run_experiment(cfg: ExperimentConfig) -> List[Dict[str, Any]]:
                     finish_reason = "error"
                     usage = {}
                     error = str(e)
+                    print(f"Error during request: {e}, scenario: {scenario.id}, model: {model.name}, rep: {rep+1}")
 
                 # scoring (literal match after strip)
                 expected = rendered.expected_answer.strip() if rendered.expected_answer else None
@@ -98,6 +102,10 @@ def run_experiment(cfg: ExperimentConfig) -> List[Dict[str, Any]]:
                     "usage_total_tokens": usage.get("total_tokens"),
                     "error": error,
                 })
+                
+                # Add delay between requests to avoid rate limiting
+                if request_delay > 0:
+                    time.sleep(request_delay)
 
     return rows
 
