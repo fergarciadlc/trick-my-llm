@@ -30,7 +30,7 @@ defaults:
 replications: 3
 
 scenarios:
-  - id: "countries_table_1_wrong"
+  - id: "countries_table_alltrue"
     system_prompt: "prompts/system__use_provided_data_only.md"
     user_prompt_template: "prompts/scenarios/user__contradictory_table.md.j2"
   - id: "countries_2ok_1wrong"
