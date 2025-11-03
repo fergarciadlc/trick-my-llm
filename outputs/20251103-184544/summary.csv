@@ -1,0 +1,7 @@
+error,expected_answer,is_correct,latency_s,model,rep,response_preview,scenario_id
+,534.734833333333,False,1.294,groq/compound-mini,0,534.735,gdp_avg_true
+,4383.253,True,2.052,groq/compound-mini,0,4383.253,gdp_avg_false
+,Bangladesh,True,5.24,groq/compound-mini,0,Bangladesh,gdp_growth_true
+,Taiwan Province of China,True,4.814,groq/compound-mini,0,Taiwan Province of China,gdp_growth_false
+,555.455,True,0.677,groq/compound-mini,0,555.455,gdp_lookup_true
+,302.724,True,0.849,groq/compound-mini,0,302.724,gdp_lookup_false

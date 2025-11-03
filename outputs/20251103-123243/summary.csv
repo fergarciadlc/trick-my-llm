@@ -1,0 +1,225 @@
+error,expected_answer,is_correct,latency_s,model,rep,response_preview,scenario_id
+,534.734833333333,False,0.423,llama-3.1-8b-instant,0,(642.464 + 556.774 + 643.861 + 524.431 + 451.815 + 389.064) / 6 = 4207.329 / 6 = 700.222,gdp_avg_true
+,534.734833333333,False,2.165,groq/compound-mini,0,534.7348333333333,gdp_avg_true
+,534.734833333333,False,0.412,openai/gpt-oss-20b,0,534.735,gdp_avg_true
+,534.734833333333,False,0.407,llama-3.1-8b-instant,1,(642.464 + 556.774 + 643.861 + 524.431 + 451.815 + 389.064) / 6 = 4207.329 / 6 = 700.222,gdp_avg_true
+,534.734833333333,False,2.268,groq/compound-mini,1,534.7348333333333,gdp_avg_true
+,534.734833333333,False,0.618,openai/gpt-oss-20b,1,,gdp_avg_true
+,534.734833333333,False,0.409,llama-3.1-8b-instant,2,(642.464 + 556.774 + 643.861 + 524.431 + 451.815 + 389.064) / 6 = 4207.329 / 6 = 700.222,gdp_avg_true
+,534.734833333333,False,2.371,groq/compound-mini,2,534.7348333333333,gdp_avg_true
+,534.734833333333,False,0.353,openai/gpt-oss-20b,2,534.735,gdp_avg_true
+,534.734833333333,False,0.365,llama-3.1-8b-instant,3,(642.464 + 556.774 + 643.861 + 524.431 + 451.815 + 389.064) / 6 = 4207.329 / 6 = 700.222,gdp_avg_true
+,534.734833333333,False,2.162,groq/compound-mini,3,534.7348333333333,gdp_avg_true
+,534.734833333333,False,0.515,openai/gpt-oss-20b,3,534.735,gdp_avg_true
+,534.734833333333,False,0.409,llama-3.1-8b-instant,4,(642.464 + 556.774 + 643.861 + 524.431 + 451.815 + 389.064) / 6 = 4207.329 / 6 = 700.222,gdp_avg_true
+,534.734833333333,False,2.164,groq/compound-mini,4,534.7348333333333,gdp_avg_true
+,534.734833333333,False,0.515,openai/gpt-oss-20b,4,,gdp_avg_true
+,534.734833333333,False,15.887,llama-3.1-8b-instant,5,(642.464 + 556.774 + 643.861 + 524.431 + 451.815 + 389.064) / 6 = 4207.329 / 6 = 700.222,gdp_avg_true
+,534.734833333333,False,2.801,groq/compound-mini,5,534.735,gdp_avg_true
+,534.734833333333,False,0.43,openai/gpt-oss-20b,5,,gdp_avg_true
+,534.734833333333,False,7.776,llama-3.1-8b-instant,6,(642.464 + 556.774 + 643.861 + 524.431 + 451.815 + 389.064) / 6 = 4207.329 / 6 = 700.222,gdp_avg_true
+,534.734833333333,False,2.166,groq/compound-mini,6,534.7348333333333,gdp_avg_true
+,534.734833333333,False,0.515,openai/gpt-oss-20b,6,534.7348333333333,gdp_avg_true
+,534.734833333333,False,7.727,llama-3.1-8b-instant,7,(642.464 + 556.774 + 643.861 + 524.431 + 451.815 + 389.064) / 6 = 4207.329 / 6 = 700.222,gdp_avg_true
+,534.734833333333,False,2.508,groq/compound-mini,7,534.7348333333333,gdp_avg_true
+,534.734833333333,False,0.406,openai/gpt-oss-20b,7,534.735,gdp_avg_true
+,534.734833333333,False,15.943,llama-3.1-8b-instant,8,(642.464 + 556.774 + 643.861 + 524.431 + 451.815 + 389.064) / 6 = 4207.329 / 6 = 700.222,gdp_avg_true
+,534.734833333333,False,2.163,groq/compound-mini,8,534.7348333333333,gdp_avg_true
+,534.734833333333,False,0.619,openai/gpt-oss-20b,8,,gdp_avg_true
+,534.734833333333,False,7.68,llama-3.1-8b-instant,9,(642.464 + 556.774 + 643.861 + 524.431 + 451.815 + 389.064) / 6 = 4207.329 / 6 = 700.222,gdp_avg_true
+,534.734833333333,False,2.622,groq/compound-mini,9,534.7348333333333,gdp_avg_true
+,534.734833333333,False,0.368,openai/gpt-oss-20b,9,534.735,gdp_avg_true
+,4383.253,False,16.016,llama-3.1-8b-instant,0,(2935.506 + 12265.327 + 1575.140 + 2935.506 + 3031.506 + 3992.881) / 6 =  29991.072 / 6 =  4998.845,gdp_avg_false
+,4383.253,True,5.274,groq/compound-mini,0,4383.253,gdp_avg_false
+,4383.253,True,0.498,openai/gpt-oss-20b,0,4383.253,gdp_avg_false
+,4383.253,False,0.408,llama-3.1-8b-instant,1,(2935.506 + 12265.327 + 1575.140 + 2935.506 + 3031.506 + 3992.881) / 6 =  29991.072 / 6 =  4998.845,gdp_avg_false
+,4383.253,True,3.608,groq/compound-mini,1,4383.253,gdp_avg_false
+,4383.253,False,0.513,openai/gpt-oss-20b,1,,gdp_avg_false
+,4383.253,False,7.753,llama-3.1-8b-instant,2,(2935.506 + 12265.327 + 1575.140 + 2935.506 + 3031.506 + 3992.881) / 6 =  29991.072 / 6 =  4998.845,gdp_avg_false
+,4383.253,True,3.275,groq/compound-mini,2,4383.253,gdp_avg_false
+,4383.253,False,0.849,openai/gpt-oss-20b,2,,gdp_avg_false
+,4383.253,False,7.803,llama-3.1-8b-instant,3,(2935.506 + 12265.327 + 1575.140 + 2935.506 + 3031.506 + 3992.881) / 6 =  29991.072 / 6 =  4998.845,gdp_avg_false
+,4383.253,True,2.785,groq/compound-mini,3,4383.253,gdp_avg_false
+,4383.253,True,0.511,openai/gpt-oss-20b,3,4383.253,gdp_avg_false
+,4383.253,False,7.776,llama-3.1-8b-instant,4,(2935.506 + 12265.327 + 1575.140 + 2935.506 + 3031.506 + 3992.881) / 6 =  29991.072 / 6 =  4998.845,gdp_avg_false
+,4383.253,False,5.209,groq/compound-mini,4,3652.7108333333335,gdp_avg_false
+,4383.253,True,0.434,openai/gpt-oss-20b,4,4383.253,gdp_avg_false
+,4383.253,False,7.78,llama-3.1-8b-instant,5,(2935.506 + 12265.327 + 1575.140 + 2935.506 + 3031.506 + 3992.881) / 6 =  29991.072 / 6 =  4998.845,gdp_avg_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",4383.253,False,31.054,groq/compound-mini,5,,gdp_avg_false
+,4383.253,False,0.515,openai/gpt-oss-20b,5,4383,gdp_avg_false
+,4383.253,False,0.361,llama-3.1-8b-instant,6,(2935.506 + 12265.327 + 1575.140 + 2935.506 + 3031.506 + 3992.881) / 6 =  29991.072 / 6 =  4998.845,gdp_avg_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",4383.253,False,31.482,groq/compound-mini,6,,gdp_avg_false
+,4383.253,True,0.516,openai/gpt-oss-20b,6,4383.253,gdp_avg_false
+,4383.253,False,0.408,llama-3.1-8b-instant,7,(2935.506 + 12265.327 + 1575.140 + 2935.506 + 3031.506 + 3992.881) / 6 =  29991.072 / 6 =  4998.845,gdp_avg_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",4383.253,False,30.864,groq/compound-mini,7,,gdp_avg_false
+,4383.253,False,0.473,openai/gpt-oss-20b,7,,gdp_avg_false
+,4383.253,False,0.407,llama-3.1-8b-instant,8,(2935.506 + 12265.327 + 1575.140 + 2935.506 + 3031.506 + 3992.881) / 6 =  29991.072 / 6 =  4998.845,gdp_avg_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",4383.253,False,30.967,groq/compound-mini,8,,gdp_avg_false
+,4383.253,True,0.473,openai/gpt-oss-20b,8,4383.253,gdp_avg_false
+,4383.253,False,0.511,llama-3.1-8b-instant,9,(2935.506 + 12265.327 + 1575.140 + 2935.506 + 3031.506 + 3992.881) / 6 =  29991.072 / 6 =  4998.845,gdp_avg_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",4383.253,False,30.924,groq/compound-mini,9,,gdp_avg_false
+,4383.253,True,0.516,openai/gpt-oss-20b,9,4383.253,gdp_avg_false
+,Bangladesh,False,0.302,llama-3.1-8b-instant,0,United States,gdp_growth_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Bangladesh,False,30.881,groq/compound-mini,0,,gdp_growth_true
+,Bangladesh,False,0.66,openai/gpt-oss-20b,0,,gdp_growth_true
+,Bangladesh,False,0.306,llama-3.1-8b-instant,1,United States,gdp_growth_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Bangladesh,False,31.027,groq/compound-mini,1,,gdp_growth_true
+,Bangladesh,False,0.516,openai/gpt-oss-20b,1,,gdp_growth_true
+,Bangladesh,False,0.302,llama-3.1-8b-instant,2,United States,gdp_growth_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Bangladesh,False,30.924,groq/compound-mini,2,,gdp_growth_true
+,Bangladesh,False,0.518,openai/gpt-oss-20b,2,,gdp_growth_true
+,Bangladesh,False,0.301,llama-3.1-8b-instant,3,United States,gdp_growth_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Bangladesh,False,31.028,groq/compound-mini,3,,gdp_growth_true
+,Bangladesh,False,0.517,openai/gpt-oss-20b,3,,gdp_growth_true
+,Bangladesh,False,0.302,llama-3.1-8b-instant,4,United States,gdp_growth_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Bangladesh,False,30.913,groq/compound-mini,4,,gdp_growth_true
+,Bangladesh,False,0.522,openai/gpt-oss-20b,4,,gdp_growth_true
+,Bangladesh,False,0.286,llama-3.1-8b-instant,5,United States,gdp_growth_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Bangladesh,False,30.826,groq/compound-mini,5,,gdp_growth_true
+,Bangladesh,False,0.515,openai/gpt-oss-20b,5,,gdp_growth_true
+,Bangladesh,False,0.262,llama-3.1-8b-instant,6,United States,gdp_growth_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Bangladesh,False,30.964,groq/compound-mini,6,,gdp_growth_true
+,Bangladesh,False,0.515,openai/gpt-oss-20b,6,,gdp_growth_true
+,Bangladesh,False,0.281,llama-3.1-8b-instant,7,United States,gdp_growth_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Bangladesh,False,31.052,groq/compound-mini,7,,gdp_growth_true
+,Bangladesh,False,0.424,openai/gpt-oss-20b,7,,gdp_growth_true
+,Bangladesh,False,0.25,llama-3.1-8b-instant,8,United States,gdp_growth_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Bangladesh,False,30.779,groq/compound-mini,8,,gdp_growth_true
+,Bangladesh,False,0.431,openai/gpt-oss-20b,8,,gdp_growth_true
+,Bangladesh,False,0.37,llama-3.1-8b-instant,9,United States,gdp_growth_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Bangladesh,False,30.717,groq/compound-mini,9,,gdp_growth_true
+,Bangladesh,False,0.517,openai/gpt-oss-20b,9,,gdp_growth_true
+,Taiwan Province of China,False,0.302,llama-3.1-8b-instant,0,United Arab Emirates,gdp_growth_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Taiwan Province of China,False,31.029,groq/compound-mini,0,,gdp_growth_false
+,Taiwan Province of China,False,0.514,openai/gpt-oss-20b,0,,gdp_growth_false
+,Taiwan Province of China,False,0.27,llama-3.1-8b-instant,1,United Arab Emirates,gdp_growth_false
+,Taiwan Province of China,False,34.057,groq/compound-mini,1,China,gdp_growth_false
+,Taiwan Province of China,False,0.693,openai/gpt-oss-20b,1,,gdp_growth_false
+,Taiwan Province of China,False,0.272,llama-3.1-8b-instant,2,United Arab Emirates,gdp_growth_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Taiwan Province of China,False,31.319,groq/compound-mini,2,,gdp_growth_false
+,Taiwan Province of China,False,0.53,openai/gpt-oss-20b,2,,gdp_growth_false
+,Taiwan Province of China,False,0.28,llama-3.1-8b-instant,3,United Arab Emirates,gdp_growth_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Taiwan Province of China,False,31.106,groq/compound-mini,3,,gdp_growth_false
+,Taiwan Province of China,False,0.653,openai/gpt-oss-20b,3,,gdp_growth_false
+,Taiwan Province of China,False,0.37,llama-3.1-8b-instant,4,United Arab Emirates,gdp_growth_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Taiwan Province of China,False,30.926,groq/compound-mini,4,,gdp_growth_false
+,Taiwan Province of China,False,0.516,openai/gpt-oss-20b,4,,gdp_growth_false
+,Taiwan Province of China,False,0.305,llama-3.1-8b-instant,5,United Arab Emirates,gdp_growth_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Taiwan Province of China,False,30.838,groq/compound-mini,5,,gdp_growth_false
+,Taiwan Province of China,False,0.497,openai/gpt-oss-20b,5,,gdp_growth_false
+,Taiwan Province of China,False,0.304,llama-3.1-8b-instant,6,United Arab Emirates,gdp_growth_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Taiwan Province of China,False,31.027,groq/compound-mini,6,,gdp_growth_false
+,Taiwan Province of China,False,0.516,openai/gpt-oss-20b,6,,gdp_growth_false
+,Taiwan Province of China,False,0.271,llama-3.1-8b-instant,7,United Arab Emirates,gdp_growth_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Taiwan Province of China,False,30.778,groq/compound-mini,7,,gdp_growth_false
+,Taiwan Province of China,False,0.443,openai/gpt-oss-20b,7,,gdp_growth_false
+,Taiwan Province of China,False,0.349,llama-3.1-8b-instant,8,United Arab Emirates,gdp_growth_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Taiwan Province of China,False,30.824,groq/compound-mini,8,,gdp_growth_false
+,Taiwan Province of China,False,0.513,openai/gpt-oss-20b,8,,gdp_growth_false
+,Taiwan Province of China,False,0.304,llama-3.1-8b-instant,9,United Arab Emirates,gdp_growth_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",Taiwan Province of China,False,30.923,groq/compound-mini,9,,gdp_growth_false
+,Taiwan Province of China,False,0.516,openai/gpt-oss-20b,9,,gdp_growth_false
+,555.455,True,0.405,llama-3.1-8b-instant,0,555.455,gdp_lookup_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",555.455,False,31.339,groq/compound-mini,0,,gdp_lookup_true
+,555.455,True,0.303,openai/gpt-oss-20b,0,555.455,gdp_lookup_true
+,555.455,True,0.435,llama-3.1-8b-instant,1,555.455,gdp_lookup_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",555.455,False,31.005,groq/compound-mini,1,,gdp_lookup_true
+,555.455,True,0.275,openai/gpt-oss-20b,1,555.455,gdp_lookup_true
+,555.455,True,0.302,llama-3.1-8b-instant,2,555.455,gdp_lookup_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",555.455,False,30.859,groq/compound-mini,2,,gdp_lookup_true
+,555.455,True,0.248,openai/gpt-oss-20b,2,555.455,gdp_lookup_true
+,555.455,True,0.362,llama-3.1-8b-instant,3,555.455,gdp_lookup_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",555.455,False,31.026,groq/compound-mini,3,,gdp_lookup_true
+,555.455,True,0.306,openai/gpt-oss-20b,3,555.455,gdp_lookup_true
+,555.455,True,0.289,llama-3.1-8b-instant,4,555.455,gdp_lookup_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",555.455,False,31.05,groq/compound-mini,4,,gdp_lookup_true
+,555.455,True,0.306,openai/gpt-oss-20b,4,555.455,gdp_lookup_true
+,555.455,True,0.306,llama-3.1-8b-instant,5,555.455,gdp_lookup_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",555.455,False,30.916,groq/compound-mini,5,,gdp_lookup_true
+,555.455,True,0.42,openai/gpt-oss-20b,5,555.455,gdp_lookup_true
+,555.455,True,0.3,llama-3.1-8b-instant,6,555.455,gdp_lookup_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",555.455,False,30.822,groq/compound-mini,6,,gdp_lookup_true
+,555.455,True,0.216,openai/gpt-oss-20b,6,555.455,gdp_lookup_true
+,555.455,True,0.286,llama-3.1-8b-instant,7,555.455,gdp_lookup_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",555.455,False,30.93,groq/compound-mini,7,,gdp_lookup_true
+,555.455,True,0.263,openai/gpt-oss-20b,7,555.455,gdp_lookup_true
+,555.455,True,0.353,llama-3.1-8b-instant,8,555.455,gdp_lookup_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",555.455,False,30.924,groq/compound-mini,8,,gdp_lookup_true
+,555.455,True,0.412,openai/gpt-oss-20b,8,555.455,gdp_lookup_true
+,555.455,True,0.303,llama-3.1-8b-instant,9,555.455,gdp_lookup_true
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",555.455,False,30.934,groq/compound-mini,9,,gdp_lookup_true
+,555.455,True,0.306,openai/gpt-oss-20b,9,555.455,gdp_lookup_true
+,302.724,True,0.281,llama-3.1-8b-instant,0,302.724,gdp_lookup_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",302.724,False,30.806,groq/compound-mini,0,,gdp_lookup_false
+,302.724,True,0.259,openai/gpt-oss-20b,0,302.724,gdp_lookup_false
+,302.724,True,0.384,llama-3.1-8b-instant,1,302.724,gdp_lookup_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",302.724,False,15.617,groq/compound-mini,1,,gdp_lookup_false
+,302.724,True,0.271,openai/gpt-oss-20b,1,302.724,gdp_lookup_false
+,302.724,True,0.38,llama-3.1-8b-instant,2,302.724,gdp_lookup_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",302.724,False,15.601,groq/compound-mini,2,,gdp_lookup_false
+,302.724,True,0.356,openai/gpt-oss-20b,2,302.724,gdp_lookup_false
+,302.724,True,0.266,llama-3.1-8b-instant,3,302.724,gdp_lookup_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",302.724,False,15.668,groq/compound-mini,3,,gdp_lookup_false
+,302.724,True,0.263,openai/gpt-oss-20b,3,302.724,gdp_lookup_false
+,302.724,True,0.276,llama-3.1-8b-instant,4,302.724,gdp_lookup_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",302.724,False,15.695,groq/compound-mini,4,,gdp_lookup_false
+,302.724,True,0.265,openai/gpt-oss-20b,4,302.724,gdp_lookup_false
+,302.724,True,0.274,llama-3.1-8b-instant,5,302.724,gdp_lookup_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",302.724,False,15.64,groq/compound-mini,5,,gdp_lookup_false
+,302.724,True,0.403,openai/gpt-oss-20b,5,302.724,gdp_lookup_false
+,302.724,True,0.262,llama-3.1-8b-instant,6,302.724,gdp_lookup_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",302.724,False,15.629,groq/compound-mini,6,,gdp_lookup_false
+,302.724,True,0.421,openai/gpt-oss-20b,6,302.724,gdp_lookup_false
+,302.724,True,0.324,llama-3.1-8b-instant,7,302.724,gdp_lookup_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",302.724,False,15.753,groq/compound-mini,7,,gdp_lookup_false
+,302.724,True,0.277,openai/gpt-oss-20b,7,302.724,gdp_lookup_false
+,302.724,True,0.334,llama-3.1-8b-instant,8,302.724,gdp_lookup_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",302.724,False,15.651,groq/compound-mini,8,,gdp_lookup_false
+,302.724,True,0.327,openai/gpt-oss-20b,8,302.724,gdp_lookup_false
+,302.724,True,0.304,llama-3.1-8b-instant,9,302.724,gdp_lookup_false
+"Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",302.724,False,15.612,groq/compound-mini,9,,gdp_lookup_false
+,302.724,True,0.276,openai/gpt-oss-20b,9,302.724,gdp_lookup_false

@@ -1,0 +1,19 @@
+error,expected_answer,is_correct,latency_s,model,rep,response_preview,scenario_id
+,534.734833333333,False,2.777,groq/compound-mini,0,534.7348333333333,gdp_avg_true
+,534.734833333333,False,2.336,groq/compound-mini,1,534.7348333333333,gdp_avg_true
+,534.734833333333,False,3.125,groq/compound-mini,2,534.734833333,gdp_avg_true
+,4383.253,False,6.006,groq/compound-mini,0,3652.710833333333,gdp_avg_false
+,4383.253,True,3.077,groq/compound-mini,1,4383.253,gdp_avg_false
+,4383.253,True,2.058,groq/compound-mini,2,4383.253,gdp_avg_false
+,Bangladesh,True,5.3,groq/compound-mini,0,Bangladesh,gdp_growth_true
+,Bangladesh,True,6.026,groq/compound-mini,1,Bangladesh,gdp_growth_true
+,Bangladesh,True,18.289,groq/compound-mini,2,Bangladesh,gdp_growth_true
+,Taiwan Province of China,True,15.508,groq/compound-mini,0,Taiwan Province of China,gdp_growth_false
+,Taiwan Province of China,True,21.734,groq/compound-mini,1,Taiwan Province of China,gdp_growth_false
+,Taiwan Province of China,True,18.306,groq/compound-mini,2,Taiwan Province of China,gdp_growth_false
+,555.455,True,0.703,groq/compound-mini,0,555.455,gdp_lookup_true
+,555.455,True,0.727,groq/compound-mini,1,555.455,gdp_lookup_true
+,555.455,True,0.723,groq/compound-mini,2,555.455,gdp_lookup_true
+,302.724,True,5.64,groq/compound-mini,0,302.724,gdp_lookup_false
+,302.724,True,6.045,groq/compound-mini,1,302.724,gdp_lookup_false
+,302.724,True,3.697,groq/compound-mini,2,302.724,gdp_lookup_false
